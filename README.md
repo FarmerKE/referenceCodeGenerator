@@ -2,7 +2,7 @@
 
 This is a code generator package built in R.
 
-# Installation
+### Installation
 
 Install it from github as:
 
