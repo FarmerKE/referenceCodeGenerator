@@ -1,0 +1,22 @@
+---
+title: "README"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## refCodeGen
+
+This is a code generator package built in R.
+
+## Installation
+
+Install it from github as:
+
+```{r cars}
+remotes::install_github("FarmerKE/referenceCodeGenerator")
+```
+
+## Enjoy
