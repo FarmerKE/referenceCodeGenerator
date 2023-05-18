@@ -10,7 +10,7 @@ Install it from github use:
 remotes::install_github("FarmerKE/referenceCodeGenerator")
 ```
 
-To use its sole function:
+To use its sole function, all of which will generate a unique reference:
 ```
 reference_code()
 ```
