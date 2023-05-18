@@ -1,4 +1,4 @@
-## refCodeGen
+## refCodeGen Package
 
 This is a code generator package built in R.
 
