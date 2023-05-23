@@ -2,7 +2,7 @@ Package: refCodeGen
 Type: Package
 Title: Tool for generating reference codes
 Version: 0.1.0
-Author: Ni mimi...Kioko
+Author: Ni mimi Kioko
 Maintainer: The package maintainer <kiokokm79@gmail.com>
 Description: Tool for generating reference codes
 License: MIT + file LICENSE
