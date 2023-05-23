@@ -34,7 +34,7 @@ reference_code <- function(ref_code = NULL, device_code = NULL) {
         lubridate::day(date),
         LETTERS[lubridate::day(date) - 9]
       )
-      hour <- LETTERS[as.integer(lubridate::hour(date))]
+      hour <- LETTERS[as.integer(lubridate::hour(date) - 1)]
       device <- ifelse(is.null(device_code), 1, device_code)
       random <- toupper(stringi::stri_rand_strings(n = 1, length =  4, pattern = "[A-Za-z0-9]"))
 
